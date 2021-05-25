@@ -1,0 +1,13 @@
+1. Reportlab module:
+   
+   pip install reportlab
+
+2. Logo 
+
+   Image name=	logo
+   Extension =  .jpg
+   
+   If .jpg donot work, use .jpeg extension in line 108 of restaurant python file.
+   Image name should be logo
+
+3. keep restaurant.py and logo.jpg in same folder.
